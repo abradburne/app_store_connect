@@ -135,6 +135,7 @@
 		{
 			"alias": "create_beta_tester",
 			"url": "https://api.appstoreconnect.apple.com/v1/betaTesters",
+			"http_body_type": "BetaTesterCreateRequest",
 			"http_method": "post"
 		},
 		{
